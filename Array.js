@@ -19,7 +19,7 @@ let arr4 = [18,19,20,21,22,23,24,25,26]
 arr4.unshift(9)
 document.write("To add in begning of the array "+arr4+"<br/><br/>")
 
-let arr5 = [22,23,24,25,26]
+let arr5 = [22,23,24,25,26,17]
 arr5.shift()
 document.write("To remove from the starting of the array "+arr5+"<br/><br/>")
 
