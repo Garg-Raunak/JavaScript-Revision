@@ -11,7 +11,7 @@ let arr2 = [9,10,11,12]
 arr2.push(13)
 document.write("To add in the end of the Array "+arr2+"<br/><br/>")
 
-let arr3 = [14,15,16,17]
+let arr3 = [14,15,16,17,18,29]
 arr3.pop()
 document.write("To remove the element from the end "+arr3+"<br/><br/>")
 
