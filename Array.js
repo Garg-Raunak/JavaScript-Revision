@@ -15,7 +15,7 @@ let arr3 = [14,15,16,17,18,29]
 arr3.pop()
 document.write("To remove the element from the end "+arr3+"<br/><br/>")
 
-let arr4 = [18,19,20,21,22,23,24,25,26]
+let arr4 = [18,19,20,21,22,23,24,25,26,28]
 arr4.unshift(9)
 document.write("To add in begning of the array "+arr4+"<br/><br/>")
 
